@@ -15,14 +15,20 @@
 | ID | Title | Link | Venue | TL;DR | 
 | --- | --- | --- | --- | --- |
 | 1 | Efficient Multi-agent Reinforcement Learning by Planning | [pdf](https://openreview.net/attachment?id=CpnKq3UJwp&name=pdf) | ICLR'24|  MAZero, dynamics (no-LLM) |
-|2| Verified Multi-Step Synthesis using Large Language Models and Monte Carlo Tree Search | [pdf](https://arxiv.org/pdf/2402.08147) | ICLM'24* | MCTS, LLM |
+|2| Verified Multi-Step Synthesis using Large Language Models and Monte Carlo Tree Search | [pdf](https://arxiv.org/pdf/2402.08147) | ICLM'24* | MCTS, LLM, Verify |
 |3| Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models | [pdf](https://arxiv.org/pdf/2310.04406) | ICLR'24| MCTS,COT,HotPotQA|
+
+
 
 ### knowledge graph (-RL) <a name="KG"></a>
 | ID | Title | Link | Venue | TL;DR | 
 | --- | --- | --- | --- | --- |
 |1| Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning | [pdf](https://openreview.net/attachment?id=ZGNWW7xZ6Q&name=pdf) | ICLR'24 | LLM-RAG; Q(a, q, G) |
 |2| BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs | [pdf](https://openreview.net/attachment?id=jJCeMiwHdH&name=pdf) | ICLR'24 | Multi-modal, ChatGPT |
+|3| Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning | [pdf](https://openreview.net/attachment?id=RXFVcynVe1&name=pdf) | ICLR'24 | TAG;Xavier; |
+|4*| SPRING: Studying the Paper and Reasoning to Play Games | [pdf](https://openreview.net/pdf?id=jU9qiRMDtR) | Neurips'23 | Atari; LLM-reasoning | 
+|5| XplainLLM: A QA Explanation Dataset for Understanding LLM Decision-Making | [pdf](https://openreview.net/pdf?id=Ba5KGabRe8) | ICLR'24 | Verify? | 
+
 
 ### continual-RL <a name="continual-rl"></a>
 | ID | Title | Link | Venue | TL;DR | 
@@ -47,6 +53,8 @@
 ### llm-RL <a name="llm-rl"></a>
 | ID | Title | Link | Venue | TL;DR | 
 | --- | --- | --- | --- | --- |
+|1| Direct Preference Optimization: Your Language Model is Secretly a Reward Model | [pdf](https://arxiv.org/pdf/2305.18290) | Neurips'23 | Finn; RLHF|
+|2| From r to Q∗: Your Language Model is Secretly a Q-Function | [pdf](https://arxiv.org/pdf/2404.12358) | - | Finn |
 
 
 ### Robotics-RL <a name="robotics"></a>
