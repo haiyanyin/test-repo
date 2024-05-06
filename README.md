@@ -17,7 +17,7 @@
 | 1 | Efficient Multi-agent Reinforcement Learning by Planning | [pdf](https://openreview.net/attachment?id=CpnKq3UJwp&name=pdf) | ICLR'24|  MAZero, dynamics (no-LLM) |
 |2| Verified Multi-Step Synthesis using Large Language Models and Monte Carlo Tree Search | [pdf](https://arxiv.org/pdf/2402.08147) | ICLM'24* | MCTS, LLM, Verify |
 |3| Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models | [pdf](https://arxiv.org/pdf/2310.04406) | ICLR'24| MCTS,COT,HotPotQA|
-
+|4| Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning | [PDF](https://arxiv.org/pdf/2405.00451) | ICML'24? |
 
 
 ### knowledge graph (-RL) <a name="KG"></a>
